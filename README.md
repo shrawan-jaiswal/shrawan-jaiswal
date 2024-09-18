@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shrawan-jaiyswal-a2152122a/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/shrawan-jaiswal)
-[![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google-Chrome&logoColor=white)](shrawan-jaiyswal.com.np)
+[![Website](https://img.shields.io/badge/-Website-brightgreen?style=flat&logo=Google-Chrome&logoColor=white)](http://shrawan-jaiyswal.com.np/)
 
 
 ### Languages and Tools:
